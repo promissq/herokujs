@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "V2go",
+    "description": "Deploy V2go on Heroman.",
+    "keywords": ["V2go"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com",
+    "repository": "https://github.com/promissq/newthinkjs01",
     "stack": "container"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "V2go",
+    "name": "V2ray",
     "description": "Deploy V2go on Heroman.",
     "keywords": ["V2go"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "2388e354-1fc4-4fcc-86b4-cb49781e3696"
         },
         "WSPATH": {
             "description": "WebSocket Path",
